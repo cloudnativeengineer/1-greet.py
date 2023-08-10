@@ -1,6 +1,4 @@
-### Purpose:
-
-A Generative AI hallucinated "Hello, World!" script for demonstration purposes
+### A Generative AI hallucinated "Hello, World!" script for demonstration purposes
 
 ---
 
