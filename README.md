@@ -1,10 +1,12 @@
+### Purpose:
+
+A Generative AI hallucinated "Hello, World!" script for demonstration purposes
+
+---
+
 # greet.py
 
 A simple Python command-line application that greets users based on provided names.
-
-## Purpose:
-
-A Generative AI hallucinated "Hello, World!" script for demonstration purposes
 
 ## Description
 
